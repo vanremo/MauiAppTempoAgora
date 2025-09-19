@@ -38,8 +38,10 @@ Configure a chave da API de clima no código (appsettings.json ou diretamente no
 
 Execute o projeto no emulador ou dispositivo físico.
 
-📸 Demonstração
+📸 Demonstração: 
 Em Breve
+
+------------------------------------------------------------------------------------------------------------------------
 
 📈 Melhorias Futuras
 
@@ -50,7 +52,7 @@ Em Breve
  Suporte a múltiplos idiomas.
 
  Layout aprimorado com animações.
-
+-------------------------------------------------------------------------------------------------------------------------
 👩‍💻 Autor
 
 Desenvolvido por Vanessa Reginato.
